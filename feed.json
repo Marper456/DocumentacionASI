@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "prueba",
+    "description": "",
+    "home_page_url": "https://github.com/Marper456/DocumentacionASI",
+    "feed_url": "https://github.com/Marper456/DocumentacionASI/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "prueba"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Marper456/DocumentacionASI/prueba.html",
+            "url": "https://github.com/Marper456/DocumentacionASI/prueba.html",
+            "title": "prueba",
+            "author": {
+                "name": "prueba"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-25T20:52:26+02:00",
+            "date_modified": "2025-09-25T20:52:26+02:00"
+        }
+    ]
+}
