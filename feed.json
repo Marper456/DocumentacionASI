@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "prueba",
     "description": "",
-    "home_page_url": "https://github.com/Marper456/DocumentacionASI",
-    "feed_url": "https://github.com/Marper456/DocumentacionASI/feed.json",
+    "home_page_url": "https://Marper456/github.io/DocumentacionASI",
+    "feed_url": "https://Marper456/github.io/DocumentacionASI/feed.json",
     "user_comment": "",
     "author": {
         "name": "prueba"
     },
     "items": [
         {
-            "id": "https://github.com/Marper456/DocumentacionASI/prueba.html",
-            "url": "https://github.com/Marper456/DocumentacionASI/prueba.html",
+            "id": "https://Marper456/github.io/DocumentacionASI/prueba.html",
+            "url": "https://Marper456/github.io/DocumentacionASI/prueba.html",
             "title": "prueba",
             "author": {
                 "name": "prueba"
